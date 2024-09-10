@@ -42,6 +42,11 @@ For coverage
   - [Awesome README](https://github.com/matiassingers/awesome-readme)
 
 
+## Desing Idea
+
+https://www.figma.com/design/vnHXTlw5ABCiSgYg4TBdLF/Rick-and-Morty-(web-responsive)-(Community)?node-id=103-576&node-type=FRAME&t=Zx18vqkcEmQRxzCb-0
+
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
