@@ -21,7 +21,7 @@ const Paginator: React.FC<PaginatorProps> = ({
   )
 
   return (
-    <div className="flex justify-center items-center mt-12">
+    <div className="flex flex-wrap justify-center items-center mt-6 space-x-2 sm:space-x-4 w-full">
       <Button
         label="&lt;"
         onClick={() => goToPage(currentPage - 1)}
